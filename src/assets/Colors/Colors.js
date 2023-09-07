@@ -1,0 +1,20 @@
+export const Colors = {
+  Primary: {
+    backgroundColor: '#CFCFD0',
+    lightBackgroundColor: '#F9F9F7',
+    lightGrey: '#404240',
+    darkGrey: '#171919',
+    Grey: '#9C9F9C',
+    white: '#fff',
+    Orange: '#DB4C2D',
+    lightColor: '#D7DAD7',
+    black: '#000',
+    Neutral: '#D1D9E2',
+    lightGreen: '#CBE7B7',
+    lightPink: '#E1DAD8',
+    beige: '#F0EFEB',
+    pink: '#991877',
+    lightYellow: '#FBD9A7',
+    green: '#E3E5E1',
+  },
+};
